@@ -1,0 +1,27 @@
+{
+  "name": "m6node-day-5-homework-random-image-api",
+  "version": "1.0.0",
+  "description": "In this assignment, i have created a Random Image API using Node.js, a popular runtime environment for executing JavaScript code outside of a browser. This project help me understand backend development, APIs, and the Express.js framework.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex21c/m6node-day-5-homework-random-image-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Abhishek kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex21c/m6node-day-5-homework-random-image-api/issues"
+  },
+  "homepage": "https://github.com/Alex21c/m6node-day-5-homework-random-image-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
