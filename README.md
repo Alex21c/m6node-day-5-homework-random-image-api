@@ -62,6 +62,7 @@ return an JSON object containing random image URL and description.
 
 ## Tech. Stack Used:
 + [NodeJS](https://nodejs.org/en/)
++ [ExpressJS](https://expressjs.com/)
  
 ## Author
 [Abhishek kumar](https://www.linkedin.com/in/alex21c/), ([Geekster](https://geekster.in/) MERN Stack FS-14 Batch)
