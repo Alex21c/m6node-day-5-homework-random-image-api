@@ -27,4 +27,4 @@ Key Learning Objectives:
 - Testing the API endpoints using tools like Postman.
 
 YOU Need to have .env file with unsplash key access key
-UNSPLASH_ACCESS_KEY="ITVhbSudRz73f0zvepdLyFWTWxx41FWMXvKvN8TIWx4"
+UNSPLASH_ACCESS_KEY="YOURS_UNSPLASH_ACCESS_KEY"
